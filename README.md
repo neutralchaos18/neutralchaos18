@@ -2,7 +2,9 @@
 - 👀 I’m interested in future technologies, space and engineering systems
 - 🌱 I’m currently learning mechatronics and how to program a rocket
 - 💞️ I’m looking to collaborate on RMIT HIVE
-- 📫 How to reach me: https://www.linkedin.com/in/ash-exner-9a2a30215/ - Linkedin profile
+- 📫 How to reach me:
+
+  https://www.linkedin.com/in/ash-exner-9a2a30215/ - Linkedin profile
 
   s3784988@student.rmit.edu.au - Outlook profile
 
